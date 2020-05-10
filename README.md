@@ -1,0 +1,2 @@
+# Typescript-study
+study typescript
