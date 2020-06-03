@@ -1,0 +1,23 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "study typescript!",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewByVector/Typescript-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NewByVector/Typescript-study/issues"
+  },
+  "homepage": "https://github.com/NewByVector/Typescript-study#readme"
+}
